@@ -13030,3 +13030,7 @@ input:focus {
 .single-category a, .single-category a:hover{
   color:#0b1c39 !important;
 }
+
+.footer-area a, .contact-box a {
+  color:#506172;
+}

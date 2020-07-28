@@ -66,7 +66,7 @@
                 <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img">
-                            <img src="assets/img/categori/cat1.jpg" alt="">
+                            <img src="images/shoes.jpg" alt="">
                         </div>
                         <h4 class="text-center my-3"><a href="shoes.php">Shoes</a></h4>
                     </div>
@@ -74,7 +74,7 @@
                     <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img text-center">
-                            <img src="assets/img/categori/cat2.jpg" alt="">
+                            <img src="images/garments.jpg" alt="">
                         </div>
                         <h4 class="text-center my-3"><a href="garments.php">Garments</a></h4>
                     </div>
@@ -82,7 +82,7 @@
                 <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img">
-                            <img src="assets/img/categori/cat3.jpg" alt="">
+                            <img src="images/accessories.jpg" alt="">
                         </div>
                         <h4 class="text-center my-3"><a href="accessories.php">Accessories</a></h4>
                     </div>
@@ -90,7 +90,7 @@
                 <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img">
-                            <img src="assets/img/categori/cat1.jpg" alt="">
+                            <img src="images/jewelry.jpg" alt="">
                         </div>
                         <h4 class="text-center my-3"><a href="jewelry.php">Jewelry</a></h4>
                     </div>
@@ -98,7 +98,7 @@
                     <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img text-center">
-                            <img src="assets/img/categori/cat2.jpg" alt="">
+                            <img src="images/electronics.jpg" alt="">
                         </div>
                         <h4 class="text-center my-3"><a href="electronics.php">Electronics</a></h4>
                     </div>
@@ -106,7 +106,7 @@
                 <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img">
-                            <img src="assets/img/categori/cat3.jpg" alt="">
+                            <img src="images/cosmetic.jpg" alt="">
                         </div>
                         <h4 class="text-center my-3"><a href="cosmetic.php">Cosmetic</a></h4>
                     </div>
@@ -114,7 +114,7 @@
                 <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img">
-                            <img src="assets/img/categori/cat3.jpg" alt="">
+                            <img src="images/food.jpg" alt="">
                         </div>
                         <h4 class="text-center my-3"><a href="food-items.php">Drinks and Food Items</a></h4>
                     </div>
@@ -122,17 +122,9 @@
                 <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
                         <div class="category-img">
-                            <img src="assets/img/categori/cat3.jpg" alt="">
+                            <img src="images/gloves.jpg" alt="">
                         </div>
-                        <h4 class="text-center my-3"><a href="cosmetic.php">Cosmetic</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img">
-                            <img src="assets/img/categori/cat3.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="cosmetic.php">Cosmetic</a></h4>
+                        <h4 class="text-center my-3"><a href="covid.php">Gloves & Masks</a></h4>
                     </div>
                 </div>
             </div>

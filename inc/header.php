@@ -76,6 +76,7 @@
                                             <li><a href="index.php">Home</a></li>
                                             <li><a href="#">Categories</a>
                                                 <ul class="submenu">
+                                                    <li><a href="covid.php">Gloves and Masks</a></li>
                                                     <li><a href="shoes.php">Shoes</a></li>
                                                     <li><a href="garments.php">Garments</a></li>
                                                     <li><a href="accessories.php">Accessories</a></li>
@@ -83,7 +84,6 @@
                                                     <li><a href="electronics.php">Electronics</a></li>
                                                     <li><a href="cosmetic.php">Cosmetic</a></li>
                                                     <li><a href="food-items.php">Drinks and Food items</a></li>
-                                                    <li><a href="covid.php">Gloves and Masks</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="contact.php">Contact</a></li>

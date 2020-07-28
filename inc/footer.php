@@ -27,6 +27,8 @@
                                 <p>Unit 1404,<br>
                                 Guangxin Commercial Center,<br>
                                 No.1 Huangtian zhi street road.</p>
+
+                                <p><i class="fas fa-phone-square"></i> <a href="tel:02086664007">020 86664007</a> <br>  <i class="fas fa-phone-square"></i> <a href="tel:13710640853">13710640853</a><br> <i class="fas fa-phone-square"></i> <a href="tel:13711026044">13711026044</a> </p>
                            </div>
                        </div>
                    </div>
@@ -34,8 +36,8 @@
                        <div class="single-footer-caption mb-50">
                            <div class="footer-tittle">
                                <h4>Hong Kong</h4>
-                               <p>No.A053 Guangfu trade city,<br>
-                                Luijing road.</p>
+                               <p>Office 380 Nathan road</p>
+                               <p><i class="fas fa-phone-square"></i> <a href="tel:0085292983907">00852:92983907</a></p>
                            </div>
                        </div>
                    </div>
@@ -46,6 +48,7 @@
                                <p>
                                Building no 173 <br>District 5
                                </p>
+                               <p><i class="fas fa-phone-square"></i><a href="tel:0084896476818">0084:896476818</a></p>
                            </div>
                        </div>
                    </div>
