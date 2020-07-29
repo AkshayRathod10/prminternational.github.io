@@ -47,7 +47,7 @@
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left d-flex">
                                     <ul class="contact-now">    
-                                        <li>+777 2345 7886</li>
+                                        <li><a href="tel:13710640853"><i class="fas fa-phone-square"></i> 13710640853</a></li>
                                     </ul>
                                 </div>
                                 <div class="header-info-right">
@@ -77,13 +77,15 @@
                                             <li><a href="#">Categories</a>
                                                 <ul class="submenu">
                                                     <li><a href="covid.php">Gloves and Masks</a></li>
+                                                    <li><a href="food-items.php">Drinks and Food items</a></li>
+                                                    <li><a href="cosmetic.php">Cosmetic</a></li>
+                                                    <li><a href="stones.php">Precious Stones</a></li>
                                                     <li><a href="shoes.php">Shoes</a></li>
                                                     <li><a href="garments.php">Garments</a></li>
-                                                    <li><a href="accessories.php">Accessories</a></li>
+                                                    <li><a href="watches.php">Watches</a></li>
+                                                    <li><a href="bags.php">Bags</a></li>
                                                     <li><a href="jewelry.php">Jewelry</a></li>
                                                     <li><a href="electronics.php">Electronics</a></li>
-                                                    <li><a href="cosmetic.php">Cosmetic</a></li>
-                                                    <li><a href="food-items.php">Drinks and Food items</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="contact.php">Contact</a></li>

@@ -19,7 +19,7 @@
                                 <!-- <p data-animation="fadeInRight" data-delay=".8s">Best Cloth Collection By 2020!</p> -->
                                 <!-- Hero-btn -->
                                 <div class="hero__btn" data-animation="fadeInRight" data-delay="1s">
-                                    <a href="covid.php" class="btn hero-btn">View More</a>
+                                    <a href="covid.php" class="btn hero-btn">View Now</a>
                                 </div>
                             </div>
                         </div>
@@ -36,12 +36,12 @@
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-8">
                             <div class="hero__caption">
-                                <span data-animation="fadeInRight" data-delay=".4s">60% Discount</span>
-                                <h1 data-animation="fadeInRight" data-delay=".6s">Winter <br> Collection</h1>
-                                <p data-animation="fadeInRight" data-delay=".8s">Best Cloth Collection By 2020!</p>
+                                <span data-animation="fadeInRight" data-delay=".4s">Good quality</span>
+                                <h1 data-animation="fadeInRight" data-delay=".6s">Drinks &<br> Food items</h1>
+                                <!-- <p data-animation="fadeInRight" data-delay=".8s">Best Cloth Collection By 2020!</p> -->
                                 <!-- Hero-btn -->
                                 <div class="hero__btn" data-animation="fadeInRight" data-delay="1s">
-                                    <a href="industries.html" class="btn hero-btn">Shop Now</a>
+                                    <a href="food-items.php" class="btn hero-btn">View Now</a>
                                 </div>
                             </div>
                         </div>
@@ -65,68 +65,84 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-6">
                     <div class="single-category mb-30">
-                        <div class="category-img">
-                            <img src="images/shoes.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="shoes.php">Shoes</a></h4>
-                    </div>
-                </div>
-                    <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img text-center">
-                            <img src="images/garments.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="garments.php">Garments</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img">
-                            <img src="images/accessories.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="accessories.php">Accessories</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img">
-                            <img src="images/jewelry.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="jewelry.php">Jewelry</a></h4>
-                    </div>
-                </div>
-                    <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img text-center">
-                            <img src="images/electronics.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="electronics.php">Electronics</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img">
-                            <img src="images/cosmetic.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="cosmetic.php">Cosmetic</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img">
-                            <img src="images/food.jpg" alt="">
-                        </div>
-                        <h4 class="text-center my-3"><a href="food-items.php">Drinks and Food Items</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6">
-                    <div class="single-category mb-30">
-                        <div class="category-img">
-                            <img src="images/gloves.jpg" alt="">
-                        </div>
                         <h4 class="text-center my-3"><a href="covid.php">Gloves & Masks</a></h4>
+                        <div class="category-img">
+                            <a href="covid.php"><img src="images/gloves.jpg" alt="Gloves & Masks"></a>
+                        </div>
                     </div>
                 </div>
+                <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="food-items.php">Drinks and Food Items</a></h4>
+                        <div class="category-img">
+                            <a href="food-items.php"><img src="images/food.jpg" alt="Drinks & Food Items"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="cosmetic.php">Cosmetic</a></h4>
+                        <div class="category-img">
+                           <a href="cosmetic.php"><img src="images/cosmetic.jpg" alt="Cosmetic"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="stones.php">Precious Stones</a></h4>
+                        <div class="category-img">
+                            <a href="stones.php"><img src="images/stones.jpg" alt="Precious Stones"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="shoes.php">Shoes</a></h4>
+                        <div class="category-img">
+                            <a href="shoes.php"><img src="images/shoes.jpg" alt="Shoes"></a>
+                        </div>
+                    </div>
+                </div>
+                    <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="garments.php">Garments</a></h4>
+                        <div class="category-img text-center">
+                           <a href="garments.php"><img src="images/garments.jpg" alt="Garments"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="watches.php">Watches</a></h4>
+                        <div class="category-img">
+                            <a href="watches.php"><img src="images/watch.jpg" alt="Watches"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="bags.php">Bags</a></h4>
+                        <div class="category-img">
+                            <a href="bags.php"><img src="images/bags.jpg" alt="Bags"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="jewelry.php">Jewelry</a></h4>
+                        <div class="category-img">
+                            <a href="jewelry.php"><img src="images/jewelry.jpg" alt="Jewelry"></a>
+                        </div>
+                    </div>
+                </div>
+                    <div class="col-xl-4 col-lg-6">
+                    <div class="single-category mb-30">
+                        <h4 class="text-center my-3"><a href="electronics.php">Electronics</a></h4>
+                        <div class="category-img text-center">
+                            <a href="electronics.php"><img src="images/electronics.jpg" alt="Electronics"></a>
+                        </div>
+                    </div>
+                </div>                
             </div>
         </div>
     </section>
