@@ -47,6 +47,7 @@
                                 <span class="contact-info__icon"><i class="ti-email"></i></span>
                                 <div class="media-body">
                                     <h3><a href="mailto:prm_111@yahoo.com">prm_111@yahoo.com</a></h3>
+                                    <h3><a href="mailto:golbelm@gmail.com">golbelm@gmail.com</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -71,6 +72,7 @@
                                 <span class="contact-info__icon"><i class="ti-email"></i></span>
                                 <div class="media-body">
                                     <h3> <a href="mailto:prm_111@yahoo.com">prm_111@yahoo.com</a></h3>
+                                    <h3><a href="mailto:golbelm@gmail.com">golbelm@gmail.com</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -96,6 +98,7 @@
                                 <span class="contact-info__icon"><i class="ti-email"></i></span>
                                 <div class="media-body">
                                     <h3><a href="mailto:prm_111@yahoo.com">prm_111@yahoo.com</a></h3>
+                                    <h3><a href="mailto:golbelm@gmail.com">golbelm@gmail.com</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -117,6 +120,7 @@
                                 <span class="contact-info__icon"><i class="ti-email"></i></span>
                                 <div class="media-body">
                                     <h3><a href="mailto:prm_111@yahoo.com">prm_111@yahoo.com</a></h3>
+                                    <h3><a href="mailto:golbelm@gmail.com">golbelm@gmail.com</a></h3>
                                 </div>
                             </div>
                         </div>
